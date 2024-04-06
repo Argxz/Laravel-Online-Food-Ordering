@@ -2,5 +2,5 @@ Download Database -> https://www.mediafire.com/file/4dyqw666kmwd6dh/kofood_%2528
 <p>put in phpMyAdmin with db name "kofood"
 </p>
 LOGIN ADMIN :
-email : kofood@admin.com
-password : admin123
+<p>email : kofood@admin.com</p>
+<p>password : admin123</p>
